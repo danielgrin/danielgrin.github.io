@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://danielgrin.github.io
 title: danielgrin
-tagline: a sometimes blog of technology, art, leading questions and robust ambivalence
-description: My awesome new site
+tagline: 
+description: a sometimes blog of technology, art, leading questions and robust ambivalence
 paginate: 10
